@@ -1,0 +1,5 @@
+*.py[co]
+__pycache__
+*.egg-info
+.ipynb_checkpoints
+data/WPP2019_INT_F03_1_POPULATION_BY_AGE_ANNUAL_BOTH_SEXES.xlsx
